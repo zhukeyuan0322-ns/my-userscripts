@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         首师大论文预览保存（通用版）
+// @name         论文预览保存（通用版）
 // @namespace    local.cnu.preview.export
 // @version      2.0.0
 // @description  自动识别当前附件和预览页数，保存图片版PDF；支持关闭和重新打开面板。
